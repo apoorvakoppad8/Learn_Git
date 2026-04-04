@@ -1,3 +1,6 @@
 demo git
 
 i'm adding extra lines to check the git status
+
+now it's time to add few lines in this file 
+and check whether we can find the previous one
